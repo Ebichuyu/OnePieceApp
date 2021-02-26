@@ -1,0 +1,15 @@
+.loginPage {
+  background-color: #eafde6;
+}
+.loginPage .am-navbar {
+  background-color: #c8a772;
+}
+.loginPage .am-button-primary {
+  background-color: #c8a772;
+}
+.loginPage .am-button-primary:active {
+  background-color: #7b5a25;
+}
+.loginPage .am-button-primary::before {
+  border: #c8a772 !important;
+}
